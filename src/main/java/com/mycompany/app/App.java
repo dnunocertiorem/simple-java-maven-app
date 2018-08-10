@@ -5,11 +5,12 @@ package com.mycompany.app;
  */
 public class App
 {
-	// mi comentario
+// eliminados comentarios absurdos y añadido este. 
+// esta vez es para ver que dice el sonarqube
 
-// comentariooooooooooooooooooooooooooooo
 
-// otro cambio
+
+
     private final String message = "Hello World!";
 
     public App() {}
