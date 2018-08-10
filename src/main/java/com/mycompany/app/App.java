@@ -6,6 +6,10 @@ package com.mycompany.app;
 public class App
 {
 	// mi comentario
+
+
+
+// otro cambio
     private final String message = "Hello World!";
 
     public App() {}
